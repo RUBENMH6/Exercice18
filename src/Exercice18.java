@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Exercice18bis {
+public class Exercice18 {
 
     public static void main(String[] args) {
         double hour, price, gross, taxes, net;
